@@ -52,7 +52,6 @@ function About() {
         <Intrestedstack />
 
         <Github />
-         {/* /* <Leetcode/> */ }
       </Container>
     </Container>
   );
